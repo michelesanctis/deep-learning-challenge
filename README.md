@@ -1,5 +1,5 @@
 # deep-learning-challenge
-##Module 21
+## Module 21
 
 ### Background
 
@@ -79,7 +79,7 @@ The report should contain the following:
           * What steps did you take in your attempts to increase model performance?
   3. **Summary:** Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 
-** Step 5: Copy Files Into Your Repository** 
+**Step 5: Copy Files Into Your Repository** 
 Now that you're finished with your analysis in Google Colab, you need to get your files into your repository for final submission.
 1. Download your Colab notebooks to your computer.
 2. Move them into your Deep Learning Challenge directory in your local repository.
